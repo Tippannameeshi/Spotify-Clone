@@ -1,4 +1,4 @@
-console.log("Welcometo spotify");
+console.log("Welcome to spotify");
 
 // Intilize the variables
 let songIndex = 0;
